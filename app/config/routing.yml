@@ -1,0 +1,4 @@
+dciss_blog:
+    resource: "@dcissBlogBundle/Resources/config/routing.yml"
+    prefix:   /
+

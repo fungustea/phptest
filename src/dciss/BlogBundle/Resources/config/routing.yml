@@ -1,0 +1,4 @@
+dciss_blog_homepage:
+    path:     /
+    defaults: { _controller: "dcissBlogBundle:Default:index" }
+

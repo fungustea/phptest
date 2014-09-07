@@ -1,0 +1,7 @@
+parameters:
+#    dciss_blog.example.class: dciss\BlogBundle\Example
+
+services:
+#    dciss_blog.example:
+#        class: %dciss_blog.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
